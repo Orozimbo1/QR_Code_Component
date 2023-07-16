@@ -5,4 +5,4 @@ Um componente de QR Code
 ![Design de componente mobile](./design/mobile-design.jpg)
 
 # Desktop 1440px
-![Design de componente mobile](./design/desktop-design.jpg)
+![Design de componente desktop](./design/desktop-design.jpg)
